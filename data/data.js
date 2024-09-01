@@ -55,7 +55,7 @@ export const data = [
       "/images/H2.png",
       "/images/H3.png",
     ],
-    countDown: "July 23, 2023",
+    countDown: "July 23, 2025",
     price: "3,000,000",
     company: "/images/company1.png"
   },
@@ -67,7 +67,7 @@ export const data = [
       "/images/H2.png",
       "/images/H3.png",
     ],
-    countDown: "July 23, 2023",
+    countDown: "July 23, 2025",
     price: "3,000,000",
     company: "/images/company2.png"
   },
