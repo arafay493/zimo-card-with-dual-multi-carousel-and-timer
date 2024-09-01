@@ -7,7 +7,7 @@ export const data = [
       "/images/H3.png",
       "/images/H4.png",
     ],
-    countDown: "Dec 16, 2023",
+    countDown: "Dec 16, 2025",
     price: "5,000,000",
     company: "/images/company1.png"
   },
@@ -19,7 +19,7 @@ export const data = [
       "/images/H4.png",
       "/images/H1.jpg",
     ],
-    countDown: "Oct 24, 2023",
+    countDown: "Oct 24, 2025",
     price: "4,000,000",
     company: "/images/company2.png"
   },
@@ -31,7 +31,7 @@ export const data = [
       "/images/H1.jpg",
       "/images/H2.png",
     ],
-    countDown: "Aug 10, 2023",
+    countDown: "Sep 10, 2025",
     price: "2,000,000",
     company: "/images/company1.png"
   },
@@ -43,7 +43,7 @@ export const data = [
       "/images/H2.png",
       "/images/H3.png",
     ],
-    countDown: "July 23, 2023",
+    countDown: "July 23, 2025",
     price: "3,000,000",
     company: "/images/company2.png"
   },
